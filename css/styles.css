@@ -1,12 +1,10 @@
-html,
-body {
-    height: 100%;
+.form-bg {
+    background: #e6e1dd;
+    height: 100vh;
 }
 
-.form-bg {
-    padding-top: 10%;
-    background: #e6e1dd;
-    height: 100%;
+.margenY {
+    margin-top: 10%;
 }
 
 .form-container {
@@ -15,10 +13,6 @@ body {
     padding: 40px;
     border-radius: 20px;
     box-shadow: 14px 14px 20px #cbced1, -14px -14px 20px white;
-}
-
-.form-bg .container .row>div {
-    margin-left: 33%;
 }
 
 .form-container .form-icon {
